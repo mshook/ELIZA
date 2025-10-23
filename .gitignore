@@ -1,0 +1,25 @@
+# Compiled binaries
+src/eliza
+*.exe
+*.out
+*.o
+*.obj
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+*.dll
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Debug files
+*.dSYM/
